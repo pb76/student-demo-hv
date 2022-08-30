@@ -1,0 +1,13 @@
+[{
+        "namn": "Patrik Bernhardsson",
+        "master_skill": "Javascriptramverk"
+    },
+    {
+        "namn": "Christian Ohlsson",
+        "master_skill": "HTML/CSS-Wizard"
+    },
+    {
+        "namn": "Stefan Nilsson",
+        "master_skill": "UX-Design"
+    }
+]
